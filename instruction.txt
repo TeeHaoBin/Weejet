@@ -1,0 +1,9 @@
+1. npm run dev
+2. node create-widget
+    Name
+    Description
+    Author
+3. cd src/app/widgets
+4. build the widget
+5. import the created widget into src/app/testing/page.tsx
+6. node build-widget (Name)
